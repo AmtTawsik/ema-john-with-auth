@@ -17,3 +17,26 @@
 .header a:hover{
     color: orange;
 }
+.logout{
+    background-color: orange;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 0;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.logout:hover{
+    background-color: chocolate;
+}
+
+.user-name{
+    color: greenyellow;
+    font-weight: 500;
+
+}
+.wellcome{
+    margin-left: 10px;
+}
